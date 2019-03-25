@@ -8,5 +8,7 @@ public class HelloWorld {
 
         Hello h = new Hello();
         h.hello();
+        h.hello();
+        
     }
 }
