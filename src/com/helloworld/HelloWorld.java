@@ -5,5 +5,8 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("Hello GitHub!");
         System.out.println("12345");
+
+        Hello h = new Hello();
+        h.hello();
     }
 }
